@@ -10,6 +10,9 @@ import React from 'react';
 import Home from './pages/Home'
 import HelloWorld from './pages/HelloWorld';
 import About from './pages/About';
+import Fart from './pages/Fart';
+import Kiky from './pages/Kiky';
+import Mic from './pages/Mic';
 
 // function App() {
 //   return (
@@ -53,6 +56,9 @@ class App extends React.Component{
       <Route exact path="/" element={<Home />} />
       <Route exact path="/about" element={<About />} />
       <Route exact path="/helloworld" element={<HelloWorld />} />
+      <Route exact path="/fart" element={<Fart />} />
+      <Route exact path="/kiky" element={<Kiky />} />
+      <Route exact path="/mic" element={<Mic />} />
       </Routes>
     );
   }

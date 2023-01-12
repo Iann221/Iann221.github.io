@@ -36,3 +36,59 @@
     transform: rotate(360deg);
   }
 }
+
+/* punya ian */
+body {
+  background-color: pink;
+}
+
+.kikyScreen {
+  text-align: center;
+  padding-top: 50px;
+  /* display:inline-flex; kalo mau sebaris*/
+}
+
+.navButton {
+  background-color: black;
+  color: #61dafb;
+  height: 35px;
+  width: 35px;
+}
+
+.sound-wave {
+  opacity: 0;
+}
+
+.button-row {
+  /* margin-top: 50; */
+  padding-top: 50px;
+
+}
+
+.circle-button-off {
+  margin-top: 100;
+  background-color: red;
+  border: 0;
+  border-color: coral;
+  border-radius: 50%;
+ /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  padding: 0; 
+  height: 100px;
+  width: 100px;
+}
+
+.circle-button-on {
+  margin-top: 100;
+  background-color: greenyellow;
+  border: 0;
+  border-color: coral;
+  border-radius: 50%;
+ /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  padding: 0; 
+  height: 100px;
+  width: 100px;
+}
