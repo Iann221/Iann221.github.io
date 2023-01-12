@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c00bf2f.css",
-    "main.js": "/static/js/main.c9845cf1.js",
+    "main.css": "/static/css/main.e366ed6c.css",
+    "main.js": "/static/js/main.55782445.js",
     "static/js/787.bb2660d1.chunk.js": "/static/js/787.bb2660d1.chunk.js",
     "static/media/kikyian.JPG": "/static/media/kikyian.7af28776acb1b0c62506.JPG",
+    "static/media/fart-meme-sound2.mp3": "/static/media/fart-meme-sound2.0eb0b62acd9c781a8bde.mp3",
+    "static/media/prettygood.png": "/static/media/prettygood.fefcb23995f60b2e2950.png",
+    "static/media/fart.jpeg": "/static/media/fart.f6223ef0547c6f9a2872.jpeg",
+    "static/media/fart-meme-sound.mp3": "/static/media/fart-meme-sound.bebc600f832642b1b0d6.mp3",
     "index.html": "/index.html",
-    "main.4c00bf2f.css.map": "/static/css/main.4c00bf2f.css.map",
-    "main.c9845cf1.js.map": "/static/js/main.c9845cf1.js.map",
+    "main.e366ed6c.css.map": "/static/css/main.e366ed6c.css.map",
+    "main.55782445.js.map": "/static/js/main.55782445.js.map",
     "787.bb2660d1.chunk.js.map": "/static/js/787.bb2660d1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c00bf2f.css",
-    "static/js/main.c9845cf1.js"
+    "static/css/main.e366ed6c.css",
+    "static/js/main.55782445.js"
   ]
 }
